@@ -1,0 +1,14 @@
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.exe
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.deps.json
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.runtimeconfig.json
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.runtimeconfig.dev.json
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.dll
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.pdb
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.API.dll
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\bin\Debug\netcoreapp3.1\CSharpTest.API.pdb
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.csprojAssemblyReference.cache
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.AssemblyInfoInputs.cache
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.AssemblyInfo.cs
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.csproj.CopyComplete
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.dll
+E:\IT\Tests\LDC\CSharpTest\CSharpTest\obj\Debug\netcoreapp3.1\CSharpTest.pdb

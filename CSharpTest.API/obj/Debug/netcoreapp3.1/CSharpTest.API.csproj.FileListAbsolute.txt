@@ -1,0 +1,7 @@
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\bin\Debug\netcoreapp3.1\CSharpTest.API.deps.json
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\bin\Debug\netcoreapp3.1\CSharpTest.API.dll
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\bin\Debug\netcoreapp3.1\CSharpTest.API.pdb
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\obj\Debug\netcoreapp3.1\CSharpTest.API.AssemblyInfoInputs.cache
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\obj\Debug\netcoreapp3.1\CSharpTest.API.AssemblyInfo.cs
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\obj\Debug\netcoreapp3.1\CSharpTest.API.dll
+E:\IT\Tests\LDC\CSharpTest\CSharpTest.API\obj\Debug\netcoreapp3.1\CSharpTest.API.pdb
